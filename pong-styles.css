@@ -14,7 +14,7 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-image:parentaladvisory.jpeg
+  background-image:url("parentaladvisory.jpg");
   background-size: cover;
 }
 
